@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Afford/static/css/main.f8ea4117.css",
+    "main.js": "/Afford/static/js/main.54506da2.js",
+    "static/js/787.f6da3cd7.chunk.js": "/Afford/static/js/787.f6da3cd7.chunk.js",
+    "static/media/Welcome_Screenshot_2023_03_29_at_8_43_1.png": "/Afford/static/media/Welcome_Screenshot_2023_03_29_at_8_43_1.8b0497b5670e46a29418.png",
+    "static/media/PlusJakartaSans-Light.ttf": "/Afford/static/media/PlusJakartaSans-Light.0b090a7f3053d7ff5a98.ttf",
+    "static/media/PlusJakartaSans-ExtraLight.ttf": "/Afford/static/media/PlusJakartaSans-ExtraLight.72426407360132dd4cf4.ttf",
+    "static/media/PlusJakartaSans-Medium.ttf": "/Afford/static/media/PlusJakartaSans-Medium.b1ea1e4a874b401f584a.ttf",
+    "static/media/PlusJakartaSans-Regular.ttf": "/Afford/static/media/PlusJakartaSans-Regular.e959ca27c856c771bc26.ttf",
+    "static/media/PlusJakartaSans-SemiBold.ttf": "/Afford/static/media/PlusJakartaSans-SemiBold.adad8543ff9863da9569.ttf",
+    "static/media/PlusJakartaSans-ExtraBold.ttf": "/Afford/static/media/PlusJakartaSans-ExtraBold.5a0637ca31265773a597.ttf",
+    "static/media/PlusJakartaSans-Bold.ttf": "/Afford/static/media/PlusJakartaSans-Bold.fea436026c7ab9d46e14.ttf",
+    "index.html": "/Afford/index.html",
+    "static/media/_CheckCircleOutlined.svg": "/Afford/static/media/_CheckCircleOutlined.73577139c3ebbd51afb4c13d0339367d.svg",
+    "static/media/_ErrorOutline.svg": "/Afford/static/media/_ErrorOutline.9506bade3570bfb53faad057336f5791.svg",
+    "static/media/_InfoOutlined.svg": "/Afford/static/media/_InfoOutlined.59ffa90540501a826dc07aa4789d732a.svg",
+    "static/media/_CheckBoxFilled.svg": "/Afford/static/media/_CheckBoxFilled.5e36add76b516381c8fd051781d5d044.svg",
+    "static/media/_WarningAmberOutlined.svg": "/Afford/static/media/_WarningAmberOutlined.7f0f81f3ac6a1bd4c08a64ea1e6554dd.svg",
+    "static/media/_IndeterminateCheckBoxFilled.svg": "/Afford/static/media/_IndeterminateCheckBoxFilled.77aafd92bc7dce2cf314b31e74cbf683.svg",
+    "static/media/_CheckBoxOutlineBlankOutlined.svg": "/Afford/static/media/_CheckBoxOutlineBlankOutlined.dc89c96be8c045bd1756ba14e3dbbbea.svg",
+    "main.f8ea4117.css.map": "/Afford/static/css/main.f8ea4117.css.map",
+    "main.54506da2.js.map": "/Afford/static/js/main.54506da2.js.map",
+    "787.f6da3cd7.chunk.js.map": "/Afford/static/js/787.f6da3cd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8ea4117.css",
+    "static/js/main.54506da2.js"
+  ]
+}
